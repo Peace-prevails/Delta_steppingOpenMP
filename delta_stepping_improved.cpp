@@ -2,7 +2,7 @@
 //  main.cpp
 //  delta_stepping
 //
-//  Created by 李嘉一 on 2023/4/12.
+//  Created by Jiayi on 2023/4/12.
 //
 
 #include <iostream>
